@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
+=======
+
+src/firebase/firebase.config.js
+.agents
+>>>>>>> c91afe31d46fb9fde15c302ccbd8f19b7208cf6c
